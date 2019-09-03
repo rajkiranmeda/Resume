@@ -1,0 +1,181 @@
+
+body{
+  color: #40514E;
+  margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+
+.copyright{
+  color:#EAF6F6;
+  font-size: 0.75rem;
+  padding:20px 0px;
+}
+
+a{
+  color: #11999E;
+  margin:10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+
+.profile{
+
+border-radius: 50%;
+}
+
+.computer{
+  width:25%;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.Chilly{
+  width:25%;
+  border-radius: 50%;
+  float: right;
+  margin-left: 30px;
+}
+
+
+h1{
+  color: #47e4bb;
+  font-size: 5.625rem;
+  margin: 0 auto;
+  font-family: 'Sacramento', cursive;
+  padding: 20px;
+}
+
+h2{
+  color: #47e4bb;
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  padding: 10px;
+}
+
+h3{
+  color: #47e4bb;
+  font-size: 1.5rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+p{
+  color: black;
+  font-size: 1rem;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  line-height: 2;
+
+}
+
+hr{
+  color: grey;
+  border-style: dotted none none;
+  width: 50px;
+  border-width: 5px;
+margin:100px auto;
+
+}
+
+.top-container{
+  background-color: #EAF6F6;
+  position: relative;
+}
+
+
+.middle-container{
+  background-color: white;
+  padding: 100px;
+  }
+
+.bottom-container{
+  background-color: #47e4bb;
+  padding: 50px 0px 20px;
+}
+
+.pro{
+  text-decoration: underline;
+}
+
+.top-cloud{
+  position: relative;
+  left: 250px;
+  padding: 20px;
+}
+
+.bottom-cloud{
+  position: absolute;
+}
+
+.mountain{
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.skill-row{
+  width: 50%;
+  margin:auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.intro{
+  width:30%;
+  margin: auto;
+}
+
+.contact-message{
+  width: 40%;
+  margin:40px auto 60px;
+}
+
+  .btn {
+    backface-visibility: hidden;
+  position: relative;
+  cursor: pointer;
+  display: inline-block;
+  white-space: nowrap;
+  background: #47e4bb;
+  border-radius: 31px;
+  border: 0 solid #246;
+  border-width: 0 0 4 0;
+  padding: 10px 20px 10px 20px;
+    color: #fff;
+  font-size: initial;
+  font-family: Helvetica Neue;
+  font-weight: 900;
+  font-style: normal
+  }
+  .btn > div {
+    color: #999;
+  font-size: 10px;
+  font-family: Helvetica Neue;
+  font-weight: initial;
+  font-style: normal;
+  text-align: center;
+  margin: 0px 0px 0px 0px
+  }
+  .btn > i {
+    font-size: 1em;
+  border-radius: 0px;
+  border: 0px solid transparent;
+  border-width: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+  position: static
+  }
+  .btn > .ld {
+    font-size: initial
+  }
